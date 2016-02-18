@@ -1,0 +1,1 @@
+php /home/skriicom/public_html/sispakmobiles.co.cc/BerthoTwitterUpdate/updateStatus.php 	
